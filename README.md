@@ -134,12 +134,3 @@ We welcome contributions! To contribute:
 ## License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details
-
-### Key Enhancements in this Version:
-1. **Structured Sections:** The file is organized into logical sections, making it easier to navigate.
-2. **Professional Wording:** The language is concise and professional to match industry standards.
-3. **Additional Details:** Includes a section for future work and contributions.
-4. **Clear Explanations:** Short descriptions of each algorithm are more focused on their application to breast cancer detection.
-5. **Better Usage Instructions:** The example usage is straightforward, showing users how to quickly run the package.
-
-This structure will make your `README.md` look polished and informative!
