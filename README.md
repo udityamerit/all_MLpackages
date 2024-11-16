@@ -63,9 +63,6 @@ After running the above command, the package will automatically generate:
 3. **Random Forest**  
    An ensemble method that enhances prediction accuracy and reduces overfitting, Random Forest is especially suitable for medical data analysis.
 
-4. **K-Nearest Neighbors (KNN)**  
-   A simple yet powerful classifier that performs well when the dataset is small and relatively noise-free, like some medical datasets.
-
 5. **Decision Tree**  
    Decision Trees provide interpretability by showing which features are most relevant to predicting breast cancer outcomes.
 
@@ -92,7 +89,6 @@ The accuracies of all models are also presented in a tabular format for easy ref
 | Logistic Regression   | 95.2         |
 | SVM                  | 96.8         |
 | Random Forest         | 97.3         |
-| KNN                  | 93.5         |
 | Decision Tree         | 92.4         |
 | Naive Bayes           | 90.1         |
 | Gradient Boosting     | 98.0         |
