@@ -2,17 +2,17 @@
 
 ## Welcome
 
-Welcome to the **The Wizards Sorting Hat** repository! **The Wizards Sorting Hat** is a fun web-based quiz that determines which Hogwarts House (Gryffindor, Hufflepuff, Ravenclaw, or Slytherin) you belong to based on your personality traits. The website asks a series of questions, and based on the user's answers, it sorts them into a house. Our goal is to create an open, inclusive, and respectful environment where developers can engage and collaborate. We are committed to maintaining a harassment-free experience for everyone involved.
+Welcome to the **all_MLpackage**  repository! The **all_MLpackage** is a comprehensive machine learning package that utilizes all major algorithms provided by scikit-learn for breast cancer detection. The package facilitates easy comparison of multiple models by automatically generating accuracy comparison graphs and tabular results. This project aims to assist in identifying the most effective model for breast cancer diagnosis by providing insights into the performance of various algorithms on the same dataset.
 
 ## Our Pledge
 
-We as members, contributors, and leaders pledge to make participation in **The Wizards Sorting Hat** a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
+We as members, contributors, and leaders pledge to make participation in **all_MLpackage**  a harassment-free experience for everyone, regardless of age, body size, visible or invisible disability, ethnicity, gender identity and expression, level of experience, education, socio-economic status, nationality, personal appearance, race, religion, or sexual identity and orientation.
 
 We pledge to act in ways that contribute to an open, welcoming, diverse, inclusive, and healthy community, ensuring that all contributors feel supported and empowered to engage meaningfully in the project.
 
 ## Our Standards
 
-To maintain a positive, constructive, and respectful environment in the **The Wizards Sorting Hat** project, all participants are expected to adhere to the following standards:
+To maintain a positive, constructive, and respectful environment in the **all_MLpackage**  project, all participants are expected to adhere to the following standards:
 
 ### Positive Behavior:
 - **Respectful Communication**: Engage with others respectfully, ensuring that discussions remain professional and focused on the goals of the project.
