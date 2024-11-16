@@ -40,7 +40,7 @@ The **The Wizards Sorting Hat** project aims to create a social platform that al
 
 ## Enforcement Responsibilities
 
-Community leaders and maintainers of the **The Wizards Sorting Hat** project are responsible for enforcing this Code of Conduct. They are expected to:
+Community leaders and maintainers of the **all_MLpackage**  project are responsible for enforcing this Code of Conduct. They are expected to:
 
 - Clearly communicate the standards for acceptable behavior and ensure that all participants are aware of them.
 - Respond to violations of the Code of Conduct in a timely and fair manner.
@@ -53,7 +53,7 @@ This Code of Conduct applies to all spaces managed by **The Wizards Sorting Hat*
 
 ## Reporting Violations
 
-If you experience or witness behavior that violates this Code of Conduct, please report it by contacting the project leaders at **divy777888@gmail.com**. All complaints will be reviewed promptly and confidentially. The community leaders are committed to ensuring a safe and positive environment and will take appropriate action to address any issues.
+If you experience or witness behavior that violates this Code of Conduct, please report it by contacting the project leaders at . All complaints will be reviewed promptly and confidentially. The community leaders are committed to ensuring a safe and positive environment and will take appropriate action to address any issues.
 
 ## Consequences of Unacceptable Behavior
 
