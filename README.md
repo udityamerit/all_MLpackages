@@ -65,11 +65,8 @@ After running the above command, the package will automatically generate:
 
 5. **Decision Tree**  
    Decision Trees provide interpretability by showing which features are most relevant to predicting breast cancer outcomes.
-
-6. **Naive Bayes**  
-   Naive Bayes classifiers are computationally efficient and work well with high-dimensional datasets like breast cancer data.
-
-7. **Gradient Boosting**  
+   
+6. **Gradient Boosting**  
    Gradient Boosting improves accuracy by iteratively correcting errors, making it highly effective for diagnosing diseases where precision is critical.
 
 ## Performance Comparison
