@@ -219,6 +219,7 @@ def main():
                 value=float(data[col].mean()), 
                 step=0.01
             )
+
         
         # Predict button
         if st.button("Predict"):
