@@ -1,3 +1,4 @@
+# import basic library
 import streamlit as st
 import pandas as pd
 import numpy as np
@@ -219,6 +220,7 @@ def main():
                 value=float(data[col].mean()), 
                 step=0.01
             )
+
         
         # Predict button
         if st.button("Predict"):
