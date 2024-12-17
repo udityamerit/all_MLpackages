@@ -147,6 +147,13 @@ def plot_model_comparison(results_df):
     return fig
 
 def main():
+    # Set page configuration
+    st.set_page_config(
+    page_title="Breast Cancer Prediction",
+    page_icon="🎗", 
+    layout="wide",
+    initial_sidebar_state="expanded",
+    )
     st.set_page_config(layout="wide", page_title="Breast Cancer Analysis")
     
     st.title("🏥 Breast Cancer Data Analysis")
